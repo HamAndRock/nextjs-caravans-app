@@ -3,6 +3,7 @@ import styled from "styled-components";
 export const ErrorContainer = styled.div`
   height: 60vh;
   width: 100%;
+  min-width: 342px;
   display: flex;
   flex-direction: column;
   justify-content: center;
