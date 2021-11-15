@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import {device} from "../../../styles/sizes";
 
-export const HeaderContainer = styled.div`
+export const HeaderContainer = styled.header`
   width: 1238px;
   display: flex;
   justify-content: flex-start;

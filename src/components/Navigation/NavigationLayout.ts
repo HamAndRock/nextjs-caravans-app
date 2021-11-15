@@ -4,7 +4,7 @@ import {NavigationElement} from "./NavigationElement/NavigationElement";
 import {TypeCard} from "./Type/TypeCard/TypeCard";
 import {device} from "../../../styles/sizes";
 
-export const NavigationContainer = styled.div`
+export const NavigationContainer = styled.nav`
   width: 100%;
   display: flex;
   flex-direction: row;

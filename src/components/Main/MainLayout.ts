@@ -2,7 +2,7 @@ import styled from "styled-components";
 import { Carousel } from 'react-responsive-carousel';
 import {device} from "../../../styles/sizes";
 
-export const MainContainer = styled.div`
+export const MainContainer = styled.main`
   display: flex;
   flex-direction: column;
   align-items: center;
